@@ -1,3 +1,3 @@
-$(.menu-btn).click(function(){
+$(".menu-btn").click(function(){
 	$("#wrapper").toggleClass("toggled")
 })
